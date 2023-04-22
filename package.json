@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.127.247.20:9980/swarna/repository/nodejs/"
+    "registry": "http://65.2.183.18:9980/swarna/repository/nodejs/"
   },
   
   "scripts": {
